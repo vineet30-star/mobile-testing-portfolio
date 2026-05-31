@@ -1,0 +1,59 @@
+# BUG-003: Excessive Device Heating During Charging After HyperOS 3.0.5.0 Update
+
+## Company
+Xiaomi (POCO)
+
+## Device
+POCO X7 Pro
+
+## Previous Version
+HyperOS 2.0
+
+## Current Version
+HyperOS 3.0.5.0
+
+## Summary
+Device heats noticeably during charging after updating to HyperOS 3.0.5.0. The issue was not observed on previous HyperOS versions.
+
+## Description
+After updating to HyperOS 3.0.5.0, the device becomes warmer than usual during charging. The heating is more noticeable compared to HyperOS 2.0 under similar charging conditions.
+
+## Steps to Reproduce
+
+1. Connect the original charger and cable.
+2. Start charging the device.
+3. Leave the device charging for 15–30 minutes.
+4. Observe the device temperature during charging.
+
+## Expected Result
+
+Device temperature should remain within normal operating limits while charging.
+
+## Actual Result
+
+Device becomes noticeably warmer than before during charging after the HyperOS 3.0.5.0 update.
+
+## Severity
+
+Medium
+
+## Priority
+
+Medium
+
+## Status
+
+Open
+
+## Environment
+
+- Device: POCO X7 Pro
+- OS Version: HyperOS 3.0.5.0
+
+## User Impact
+
+Users may feel uncomfortable while charging the device and may have concerns regarding battery health and long-term performance.
+
+## Notes
+
+The issue was not observed on HyperOS 2.0 under similar charging conditions.
