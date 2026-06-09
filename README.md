@@ -4,7 +4,9 @@
 
 Hi, I'm Vineet Mishra, a B.Tech student passionate about Mobile Software Testing, Quality Assurance, and Cybersecurity.
 
-I specialize in identifying, analyzing, reproducing, and documenting software bugs in smartphones. I regularly test mobile devices, observe software behavior, investigate issues, and create professional bug reports based on real-world findings.
+I specialize in testing mobile phones, identifying software bugs, analyzing device behavior after software updates, reproducing issues, and creating professional bug reports using QA practices.
+
+My work focuses on real-device testing, defect documentation, test case creation, bug verification, and mobile software quality improvement.
 
 ---
 
@@ -18,6 +20,8 @@ I specialize in identifying, analyzing, reproducing, and documenting software bu
 - HyperOS Testing
 - Android Device Testing
 - Test Case Design
+- Bug Verification
+- Software Quality Analysis
 
 ---
 
@@ -37,31 +41,49 @@ I specialize in identifying, analyzing, reproducing, and documenting software bu
 ## Repository Structure
 
 ### 📂 Bug Reports
-Real mobile phone bugs identified and documented during testing.
+
+Real mobile phone bugs identified, reproduced, and documented during testing.
 
 ### 📂 Test Cases
-Manual test cases created for mobile applications and device features.
+
+Manual test cases created for mobile applications, device features, and software validation.
 
 ### 📂 Screenshots
-Evidence and screenshots supporting reported defects.
+
+Evidence and screenshots supporting reported defects and observations.
 
 ---
 
-## Featured Bug Reports
+## Mobile Testing Activities
 
-### BUG-001: Camera Red Tint Issue
-**Device:** POCO X7 Pro  
-**OS:** HyperOS 3.0.5.0
+This repository contains testing activities performed on mobile devices including:
 
-**Issue:** Human skin tones appear reddish after software update.
+- Performance Testing
+- Battery Testing
+- Charging Testing
+- Thermal Testing
+- UI/UX Testing
+- Stability Testing
+- HyperOS Update Testing
+- Feature Validation
+- Bug Verification
+- Defect Documentation
 
 ---
 
-### BUG-002: Automatic Heating Issue
-**Device:** POCO X7 Pro  
-**OS:** HyperOS 3.0.5.0
+## Reported Issues
 
-**Issue:** Device heats up automatically during light usage and idle conditions.
+Examples of issues identified during testing:
+
+- Camera Color Accuracy Issues
+- Automatic Heating Issues
+- Battery Optimization Issues
+- Charging & Thermal Issues
+- UI/UX Related Defects
+- Performance Related Issues
+- HyperOS Update Related Observations
+
+More bug reports and test cases are continuously added as part of ongoing mobile software testing activities.
 
 ---
 
@@ -70,6 +92,17 @@ Evidence and screenshots supporting reported defects.
 - POCO X7 Pro
 - HyperOS Devices
 - Android Smartphones
+
+Testing includes:
+
+- Performance Testing
+- Battery Testing
+- Charging Testing
+- Thermal Testing
+- UI/UX Testing
+- Stability Testing
+- Update Impact Analysis
+- Bug Verification & Reporting
 
 ---
 
@@ -85,7 +118,7 @@ Evidence and screenshots supporting reported defects.
 
 ## Goal
 
-To build expertise in Mobile Software Testing by identifying real-world smartphone software issues, creating professional bug reports, and following industry-standard QA practices.
+To build expertise in Mobile Software Testing by identifying real-world smartphone software issues, creating professional bug reports, designing test cases, and following industry-standard QA practices.
 
 ---
 
